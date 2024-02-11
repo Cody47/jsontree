@@ -2,7 +2,7 @@
 
 Visualisation tool to help visualise json format in Graph and Tree form.
 
-👉 [View live](https://jsontree.vercel.app/)
+👉 [View live](https://cody47-json.vercel.app/)
 
 
 ## Development setup 🛠
