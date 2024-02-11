@@ -9,7 +9,7 @@ export default function EditorInfobar() {
         <span className="flex h-5 w-5 gap-1">
           <LogoIcon />
         </span>
-        JsonTree
+        JsonTree Copyright (c) 2022 Sahil Yaduvanshi
       </div>
       <div className="flex items-center gap-4">
         <span className="flex h-4 items-center gap-1 dark:text-white">
